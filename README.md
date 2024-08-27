@@ -8,11 +8,10 @@
 ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
 ##### [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
 
-***
 
 ## I'm Learning
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 100px; height: 100px;" alt="React">
 
