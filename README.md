@@ -10,7 +10,7 @@ Welcome to my lab ⚗️
 
 -Im Learning
 ## React
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 50; height: 50;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 10; height: 10;">
 
 
 
