@@ -1,13 +1,13 @@
-## João Victor Nascimento
+# João Victor Nascimento
 
 ### Welcome to my lab 🔬
-- Hello, my name is John. I love challenges:
-do you have one for me?
+<p style="color: light-green; ">I love challenges. Do you have one for me?</p>
 #### See my creations:
  ##### [dev-maestro](https://github.com/Vitor45QW/dev-maestro): Dev maestro it's a guide that helps you to study.
  ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
  ##### [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
 
+***
 
 ## Im Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 100px; height: 100px;">
