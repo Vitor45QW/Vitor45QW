@@ -1,11 +1,11 @@
 ## João Victor Nascimento
 
-Welcome to my lab ⚗️
+### welcome to my lab 🔬
 
-- Now I'm working specially on:
- - [dev-maestro](https://github.com/Vitor45QW/dev-maestro): Dev maestro it's a guide that helps you to study.
- - [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
- - [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
+#### Now I'm working specially on:
+ ##### [dev-maestro](https://github.com/Vitor45QW/dev-maestro): Dev maestro it's a guide that helps you to study.
+ ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
+ ##### [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
 
 
 ## Im Learning
