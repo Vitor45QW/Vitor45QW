@@ -10,9 +10,9 @@ Welcome to my lab ⚗️
 
 -Im Learning
 ## React
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 10px; height: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 100px; height: 100px;">
 
 
-![My journey](https://raw.githubusercontent.com/Platane/snk/master/assets/github-contribution-grid-snake.svg)
+
 
 
