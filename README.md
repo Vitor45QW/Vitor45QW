@@ -10,7 +10,7 @@ Welcome to my lab ⚗️
 
 -Im Learning
 ## React
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 50px, height: 50px;">
 ## C# 
 ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
 
