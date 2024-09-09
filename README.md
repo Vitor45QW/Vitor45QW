@@ -11,7 +11,9 @@
 ##### [Nutrition-Tracker](https://github.com/Vitor45QW/Money-Mentor): Take care of your body with nutrition tracker. Don't let the routine break your health.
 
 
- 
+ ##
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor45QW&layout=compact&theme=radical" alt="Most Used Languages">
 
 
 
@@ -28,6 +30,4 @@
   
 </div>
 
-##
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor45QW&layout=compact&theme=radical" alt="Most Used Languages">
