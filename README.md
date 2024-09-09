@@ -8,18 +8,18 @@
 <div display: flex; flex-direction: column;>
   
   <div style="display: flex;  flex-direction: row;">
-  <a href="https://github.com/Vitor45QW/dev-maestro">Dev Maestro</a>
+  <a  style=" text-decoration: none href="https://github.com/Vitor45QW/dev-maestro">Dev Maestro</a>
     <p>Dev maestro is a tool that will help beginners in they journey of programming</p>
   </div>
     
   <div>
-  <a href="https://github.com/Vitor45QW/Money-Mentor">Money Mentor</a>
+  <a style=" text-decoration: none; " href="https://github.com/Vitor45QW/Money-Mentor">Money Mentor</a>
     <p>Money mentor to prevent people from losing excessive money./p>
   </div>
     
   <div>
   <a href="https://github.com/Vitor45QW/Nutrition-tracker">Nutrition tracker</a>
-    <p>The heavy routine can hurt your body, so be aware of your behavior.</p>
+    <p>The heavy routine can hurt your body, you need to treat it well.</p>
   </div>
   
 </div>
