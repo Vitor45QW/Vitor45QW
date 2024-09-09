@@ -4,9 +4,9 @@
 <p style="color: cyan;">I love challenges. Do you have one for me?</p>
 
 ### See my creations:
-<a href="https://github.com/Vitor45QW/tunned-agenda" style="color: cyan;">Dev maestro is a guide that helps you to study.</p>
-<a href="https://github.com/Vitor45QW/Money-Mentor" style="color: cyan;">Money mentor will help you with your money.</p>
-<a href="https://github.com/Vitor45QW/dev-maestro" style="color: cyan;">Tunned agenda helps with self-analysis and habit tracking.</p>
+<a href="https://github.com/Vitor45QW/tunned-agenda" target="blank" style="text-decoration: none; color: cyan;">Dev maestro is a guide that helps you to study.</p>
+<a href="https://github.com/Vitor45QW/Money-Mentor" target="blank" style="color: cyan;">Money mentor will help you with your money.</p>
+<a href="https://github.com/Vitor45QW/dev-maestro" target="blank" style="color: cyan;">Tunned agenda helps with self-analysis and habit tracking.</p>
 
 
 
