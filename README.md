@@ -3,10 +3,10 @@
 ### Welcome to my lab 🔬
 <p style="color: cyan;">I love challenges. Do you have one for me?</p>
 
-#### See my creations:
-##### [dev-maestro](https://github.com/Vitor45QW/dev-maestro): Dev maestro is a guide that helps you to study.
-##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
-##### [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
+### See my creations:
+#### [dev-maestro](https://github.com/Vitor45QW/dev-maestro): Dev maestro is a guide that helps you to study.
+#### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
+#### [tunned-agenda](https://github.com/Vitor45QW/tunned-agenda): Tunned agenda helps with self-analysis and habit tracking.
 
 
 ## I'm Learning
