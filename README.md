@@ -8,7 +8,8 @@
 <div display: flex; flex-direction: column;>
   
   <div style="display: flex;  flex-direction: row;">
-[Dev Maestro](https://github.com/Vitor45QW/dev-maestro)
+### [🔗 Dev Maestro](https://github.com/Vitor45QW/dev-maestro)
+
 
   </div>
     
