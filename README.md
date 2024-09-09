@@ -5,8 +5,11 @@
 
 ### See my creations:
 <a href="https://github.com/Vitor45QW/tunned-agenda" target="_blank" style="text-decoration: none; color: cyan;">Dev maestro is a guide that helps you to study.</a>
-<a href="https://github.com/Vitor45QW/Money-Mentor" target="_blank" style="color: cyan;">Money mentor will help you with your money.</a>
-<a href="https://github.com/Vitor45QW/dev-maestro" target="_blank" style="color: cyan;">Tunned agenda helps with self-analysis and habit tracking.</a>
+<br>
+<a href="https://github.com/Vitor45QW/Money-Mentor" target="_blank" style="text-decoration: none; color: cyan;">Money mentor will help you with your money.</a>
+<br>
+<a href="https://github.com/Vitor45QW/dev-maestro" target="_blank" style="text-decoration: none; color: cyan;">Tunned agenda helps with self-analysis and habit tracking.</a>
+
 
 
 
