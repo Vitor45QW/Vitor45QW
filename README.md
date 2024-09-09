@@ -4,11 +4,11 @@
 <p style="color: cyan;">I love challenges. Do you have one for me?</p>
 
 ### See my most special creations:
-##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
+##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Prevents you from spending excessive money in addiction or things like that.
 
-##### [Tunned-Agenda](https://github.com/Vitor45QW/Money-Mentor): Achieve personal goals and analyse your patterns wtih this different agenda.
+##### [Tunned-Agenda](https://github.com/Vitor45QW/Money-Mentor): Achieve personal goals wtih this different agenda.
 
-##### [Nutrition-Tracker](https://github.com/Vitor45QW/Money-Mentor): The heavy routine can hurt your body. Take care of yourself.
+##### [Nutrition-Tracker](https://github.com/Vitor45QW/Money-Mentor): Take care of your body with nutrition tracker. Don't let the routine break your health.
 
 
 
