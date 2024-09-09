@@ -15,6 +15,15 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 100px; height: 100px;" alt="React">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 100px; height: 100px;" alt="Java">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="width: 100px; height: 100px;" alt="C#">
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor45QW&layout=compact&theme=radical" alt="Most Used Languages">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor45QW&layout=compact&theme=radical" alt="Most Used Languages">
+
+
+  
 </div>
