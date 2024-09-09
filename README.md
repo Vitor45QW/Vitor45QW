@@ -6,26 +6,10 @@
 ### See my most special creations:
 ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
 
-<div display: flex; flex-direction: column;>
-  ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
+##### [Tunned-Agenda](https://github.com/Vitor45QW/Money-Mentor): Achieve personal goals and analyse your patterns wtih this different agenda.
 
-  <div style="display: flex;  flex-direction: row;">
-##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Money mentor will help you with your money.
+##### [Nutrition-Tracker](https://github.com/Vitor45QW/Money-Mentor): The heavy routine can hurt your body. Take care of yourself.
 
-
-  </div>
-    
-  <div>
-  <a style=" text-decoration: none; " href="https://github.com/Vitor45QW/Money-Mentor">Money Mentor</a>
-    <p>Money mentor to prevent people from losing excessive money./p>
-  </div>
-    
-  <div>
-  <a href="https://github.com/Vitor45QW/Nutrition-tracker">Nutrition tracker</a>
-    <p>The heavy routine can hurt your body, you need to treat it well.</p>
-  </div>
-  
-</div>
 
 
 
