@@ -1,7 +1,7 @@
 # João Victor Nascimento
 
-# Welcome to my lab 🔬
-## I love challenges. Do you have one for me?
+## Welcome to my lab 🔬
+### I love challenges. Do you have one for me?
 
 ### See my most special creations:
 ##### [Money-Mentor](https://github.com/Vitor45QW/Money-Mentor): Prevents you from spending excessive money in addiction or things like that.
