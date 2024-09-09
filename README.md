@@ -8,8 +8,7 @@
 <div display: flex; flex-direction: column;>
   
   <div style="display: flex;  flex-direction: row;">
-  <a  style=" text-decoration: none" href="https://github.com/Vitor45QW/dev-maestro">Dev Maestro</a>
-    <p>Dev maestro is a tool that will help beginners in they journey of programming</p>
+<span style="color: cyan; cursor: pointer; text-decoration: underline;" onclick="window.open('https://github.com/Vitor45QW/dev-maestro', '_blank');">    <p>Dev maestro is a tool that will help beginners in they journey of programming</p>
   </div>
     
   <div>
