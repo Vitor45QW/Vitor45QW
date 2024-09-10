@@ -18,7 +18,7 @@
 
 ## I'm Learning
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-right: 50px;">
+<div style="display: flex; margin-right: 50px;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width: 100px; height: 100px;" alt="React">
   
